@@ -1,0 +1,421 @@
+[ {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 13
+  },
+  "etag" : "izgh1hN4yW_d4PmhjbuN_qUO0fQ",
+  "id" : "TUMYVmGpSYNTgbk8m3I0Ywuvtm8tXKLJ-T0hDcscN8g",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "Academic",
+    "publishedAt" : "2020-04-01T08:07:37.804Z",
+    "resourceId" : {
+      "channelId" : "UCfKnwTRbzbYe_8kONKZynfg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh-JudoBGN7bJpP7gAR8gia4GCD2jMQcx7Ofccyho0=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh-JudoBGN7bJpP7gAR8gia4GCD2jMQcx7Ofccyho0=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh-JudoBGN7bJpP7gAR8gia4GCD2jMQcx7Ofccyho0=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Dr. K S Kuppu Samy"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 4363
+  },
+  "etag" : "52rv-M52mpPL8wg7hMtoORsms1c",
+  "id" : "TUMYVmGpSYNTgbk8m3I0Y20aMnNHwREazOwRUhDY5qc",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "Thank you for Subscribing! If you have not, Subscribe now!\n\nWe are a live & interactive e-learning platform with the mission of making learning accessible to everyone. We offer instructor-led courses, along with 24/7 on-demand support to achieve highest course completion rates in the industry! Our real-life projects, 24*7 Support, Personal Learning Managers ensure that your learning goals are met!\n\nSpecial offer! Flat 20% Off on All Courses, Use Code \"𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝟐𝟎\"\n\nBy subscribing to Edureka Channel, you'll never miss out on high-quality videos, webinars, sample classes & lectures from industry practitioners & influencers. Our research team curates content on trending topics in the areas of Big Data & Hadoop, DevOps, Blockchain, Artificial Intelligence, Angular, Data Science, Apache Spark, Python, Selenium, Tableau, Android, PMP certification, AWS Architect, Digital Marketing and many more. \n\nCall us on IND: 9606058406 / US: 18338555775 (toll-free) to talk to our Course Advisors.",
+    "publishedAt" : "2020-07-09T08:49:01.800Z",
+    "resourceId" : {
+      "channelId" : "UCkw4JCwteGrDHIsyIIKo4tQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7i_dF9urC5uwdLIRQU89f5H4krFAgJgywql8kiA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7i_dF9urC5uwdLIRQU89f5H4krFAgJgywql8kiA=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7i_dF9urC5uwdLIRQU89f5H4krFAgJgywql8kiA=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "edureka!"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 708
+  },
+  "etag" : "Mag-Tort3BjDHbdzJ7bVTskB-88",
+  "id" : "TUMYVmGpSYNTgbk8m3I0Yz5HhXpr3dqqLmir-wJqWxg",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "DISCLAIMER\n \nThe material for the presentation has been compiled from various sources such as books, tutorials (online and offline), lecture notes, several resources available on Internet. The information contained in this lecture/presentation is for general information and education purpose only. While we endeavor to keep the information up to date and correct, we make no representation of any kind about the completeness and accuracy of the material. The information shared through this presentation material should be used for educational purpose only.",
+    "publishedAt" : "2020-11-02T16:36:27.880Z",
+    "resourceId" : {
+      "channelId" : "UCzwo7UlGkb-8Pr6svxWo-LA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnj8jodmvePjIui9UYpImjf46eZym1Ok1060R9H5bw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnj8jodmvePjIui9UYpImjf46eZym1Ok1060R9H5bw=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnj8jodmvePjIui9UYpImjf46eZym1Ok1060R9H5bw=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "EDUSAT IIRS Dehradun"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 759
+  },
+  "etag" : "FX1buOrx2TvBUxlqTij_GL6UynI",
+  "id" : "TUMYVmGpSYNMNvMAk5hFGOUj8Ah7RrD8TwACpRB4GGg",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "Hi my name is Sandeep Ganguly. I create video tutorials related to computer programming, software projects and other computer related knowledge in hindi language.\n\ne-mail : gangulyofficial1017@gmail.com",
+    "publishedAt" : "2018-12-26T17:04:06.595Z",
+    "resourceId" : {
+      "channelId" : "UCOo2cQaNYpPolc5__yMkFbw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniBCSJNn7xksMhYuMmyY9hNSC-TdrMNIcEOMEid3w=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniBCSJNn7xksMhYuMmyY9hNSC-TdrMNIcEOMEid3w=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniBCSJNn7xksMhYuMmyY9hNSC-TdrMNIcEOMEid3w=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Ganguly Tech"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 62
+  },
+  "etag" : "GLZ-R4S2paQhyYzcYFoXH5yMFNw",
+  "id" : "TUMYVmGpSYNMNvMAk5hFGNjMhSBYJehQ5nxnOoicfZo",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics.  All contents of this channel solely dedicated for educational or research purpose in computer science.",
+    "publishedAt" : "2019-03-01T19:07:31.063Z",
+    "resourceId" : {
+      "channelId" : "UCKXx22vOENUyHrVAADq7Z_g",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniD0NHUWrowgkFdV2qW5L_vlXnIfPIwVGNlZOA40g=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniD0NHUWrowgkFdV2qW5L_vlXnIfPIwVGNlZOA40g=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniD0NHUWrowgkFdV2qW5L_vlXnIfPIwVGNlZOA40g=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Geek's Lesson"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 1146
+  },
+  "etag" : "hqJnDn3Jvz-IhaNi4lqsWr9nRVs",
+  "id" : "TUMYVmGpSYNTgbk8m3I0Y22iWNJCsST_4MGLzNNK6lU",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "",
+    "publishedAt" : "2021-03-04T15:45:16.265Z",
+    "resourceId" : {
+      "channelId" : "UCzDbg392XuzwwWKdkpa41xg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh6ieCRIukMVb7LcYbnfbQezxOxnb5kRRzIodnPrg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh6ieCRIukMVb7LcYbnfbQezxOxnb5kRRzIodnPrg=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh6ieCRIukMVb7LcYbnfbQezxOxnb5kRRzIodnPrg=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "pantechsolutions"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 54
+  },
+  "etag" : "rXb5QnhhwaTkM2QPyKdTUUtJXeA",
+  "id" : "TUMYVmGpSYNMNvMAk5hFGBY8hWGB3uNVgdzaZERQVLQ",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "I want to share Sadhguru with you,\nin the best way that I know,\nNot for fame or fortune,\nBut because you are my bros.\n\nI hope you enjoy watching these videos as much as I enjoy making them! Do Subscribe.",
+    "publishedAt" : "2019-11-03T18:15:27.487Z",
+    "resourceId" : {
+      "channelId" : "UC_tXTJZPwodoYXN6MVpBYgg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjHPgWqwRRz6wy2tHC4dhGQPxZ8N67eJTLEEYmXnA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjHPgWqwRRz6wy2tHC4dhGQPxZ8N67eJTLEEYmXnA=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjHPgWqwRRz6wy2tHC4dhGQPxZ8N67eJTLEEYmXnA=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Sadhguru And"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 3823
+  },
+  "etag" : "By-vtLU5fDdimpdaAWokwBMpodM",
+  "id" : "TUMYVmGpSYNTgbk8m3I0YxOXMoq2yjkD-_AAFmodbEM",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "Saregama - the one-stop destination for Indian music - from golden oldies to the biggies of today. Chances are you'll find not just your own hummable faves but your mum's and granma's too - we own the biggest archive of all kinds of music from India, with top artistes across 100 years. So come and find the perfect song for every mood, the perfect gift for everyone you love, and the perfect online treasure house of Indian music. You can browse, buy, gift, dedicate, build your own library, and more.",
+    "publishedAt" : "2019-04-26T10:16:04.071Z",
+    "resourceId" : {
+      "channelId" : "UCRh-4WUJx8M86gUYL2pyKSQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AKedOLQrzNSWdm4g_wTzxCbgDjvaWR1VvKlcCe1ezx8dtQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AKedOLQrzNSWdm4g_wTzxCbgDjvaWR1VvKlcCe1ezx8dtQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AKedOLQrzNSWdm4g_wTzxCbgDjvaWR1VvKlcCe1ezx8dtQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Saregama Bengali"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 150
+  },
+  "etag" : "YtrtpldPdK-gjrhdRlGKM2LQTxw",
+  "id" : "TUMYVmGpSYNB2Ig66dyu2hFn4z3J5BKq--S1BtMsuX8",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "",
+    "publishedAt" : "2021-02-28T14:45:18.686Z",
+    "resourceId" : {
+      "channelId" : "UCTUvDLTW9meuDXWcbmISPdA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnijqJmu6023PBUeNjnfIV4hucR3nAs9MiVJ3k2E=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnijqJmu6023PBUeNjnfIV4hucR3nAs9MiVJ3k2E=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnijqJmu6023PBUeNjnfIV4hucR3nAs9MiVJ3k2E=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Shape AI"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 147
+  },
+  "etag" : "-Sjqg-epmw4mqC4tqmLE-Rzq3d4",
+  "id" : "TUMYVmGpSYMnEwS3jsj4Z7pPBvSCSP_o3zBLQh-bAso",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "We believe that each of us is unique, so are our learning needs. The ideal learning experience should be designed to fit our life’s pace, with support from advisors and mentors who understand us. We believe that education should prepare us for the real world & that working on meaningful projects under the guidance of industry experts is one of the best ways to get there. Our education model, centered around these principles, has launched thousands of students across more than 100 countries into professional success. Our learners & mentors have also created lifelong bonds.\nIf you’re a prospective learner, we're excited to help you achieve your dreams and this YouTube channel is one step in that direction. Here we share explainer videos, career advice & interviews with real-life practitioners of data science, AI, machine learning, data analytics & now, UI/UX design.\nWish to know more? Visit https://in.springboard.com or write to us at india@springboard.com / call us at +918088424853.",
+    "publishedAt" : "2020-04-21T12:56:34.915Z",
+    "resourceId" : {
+      "channelId" : "UCg5UINpJgS4uqWZkv2Qh1Mw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjUrY1GG0--l3V1Hs_qnrlNgQoOKUON2C6zXzQT=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjUrY1GG0--l3V1Hs_qnrlNgQoOKUON2C6zXzQT=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjUrY1GG0--l3V1Hs_qnrlNgQoOKUON2C6zXzQT=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Springboard India"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 78
+  },
+  "etag" : "EJUwTd0Irct9M9BixagCQtrK9XI",
+  "id" : "TUMYVmGpSYNTgbk8m3I0Y_22_BY7MN0rmQpUBPjParo",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "Stuffbox is all about Science, technology, facts, smartphones, entertainment and all the cool stuff around us. \nFor business inquiries: mauryashivam200@gmail.com\nOur Website - https://stuffboxtech.com/",
+    "publishedAt" : "2018-10-08T11:23:36.779Z",
+    "resourceId" : {
+      "channelId" : "UCrPvSHohXSNFy68p-nEBB4g",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngAeQb3WYOxEC34VV9BvBsdXYAzb-0Nuh89jI_lBQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngAeQb3WYOxEC34VV9BvBsdXYAzb-0Nuh89jI_lBQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngAeQb3WYOxEC34VV9BvBsdXYAzb-0Nuh89jI_lBQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Stuffbox"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 320
+  },
+  "etag" : "VoLoLnIJXQPZadJi9PXIPUUDp28",
+  "id" : "TUMYVmGpSYNMNvMAk5hFGLOO_-1oKybut_FvyTfx5PM",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "Udemy is a global marketplace for learning and teaching online where students are mastering new skills and achieving their goals by learning from an extensive library of over 65,000 courses taught by expert instructors.\n\nUdemy Tech is our new YouTube channel focused on tech topics such as web-development, game development, and IT. The channel features hundreds of tutorials and dedicated YouTube content that student requested. \nNew videos will be added weekly, subscribe to follow: https://www.youtube.com/udemytech/?sub_confirmation=1\n\nExplore the catalog of full courses on Udemy and start learning today: https://www.udemy.com/\n\nInterested in becoming an instructor and teaching the world online?\nRead more about how you can share your knowledge and reach millions of students across the globe: https://www.udemy.com/teaching/?ref=teach_header\n\n#BeAble\n#Udemy\n#UdemyTech",
+    "publishedAt" : "2019-10-17T10:06:38.716Z",
+    "resourceId" : {
+      "channelId" : "UCU6e4MJtvlcX5DBLP1cq8hQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniCE2kW9mO2UWqMUL47J7O4Q96VbwGXEUQdfjfl=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniCE2kW9mO2UWqMUL47J7O4Q96VbwGXEUQdfjfl=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniCE2kW9mO2UWqMUL47J7O4Q96VbwGXEUQdfjfl=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Udemy Tech"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 4482
+  },
+  "etag" : "IwAKtqTylf37zas7c9rSP8hOkFM",
+  "id" : "TUMYVmGpSYNTgbk8m3I0Y1UCa0DCfWlIESiEdRHU218",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "For Licensing enquiries : \nEmail :- sync-india@believedigital.com\n\nFor Top Most Viewed Songs : http://bit.ly/2oXKpmF\nFor Bollywood Romantic Unforgettable : http://bit.ly/2bFeNNM\nFor The Finest Collection Of Ghazals : http://bit.ly/2bK1BnU\nFor Bollywood Sad Songs : http://bit.ly/2ch194S\n\nThe Official YouTube Channel of Venus Worldwide Entertainment Pvt. Ltd.\n\nVenus, one of the leading Music Labels in India believes “Music is well said to be the speech of angels.” \n\nBeen in the Music Industry for the past three decades, Venus is a mark of Great Music.  We have a huge library of approx 30000 songs and 32 Films produced & Presented under our own banner. We have an Evergreen Catalogue that embraces songs of various genres, languages, artists, singer, composers, lyricists as well as all deities across our Four Official Channels.\n\nVenus accepts the truth that “Music is like Sound of Feelings.” \n\nSUBSCRIBE NOW!!\nhttps://www.youtube.com/watch?v=HQbZyOjXkNY",
+    "publishedAt" : "2019-05-19T22:19:30.713Z",
+    "resourceId" : {
+      "channelId" : "UCWi_65E_L8tQZ34C6wVAlpQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjfu7r8v4Cnwj4or98ltUyE24Nl5PzsQBR2k7W7lw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjfu7r8v4Cnwj4or98ltUyE24Nl5PzsQBR2k7W7lw=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjfu7r8v4Cnwj4or98ltUyE24Nl5PzsQBR2k7W7lw=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Venus"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 2851
+  },
+  "etag" : "45e5w9SiFnA4l2jl9fXrDYUrZ50",
+  "id" : "TUMYVmGpSYNTgbk8m3I0Y3wYhNvwdDYoT78AanGIGXg",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCSg8TInubrRamEFDedjDPQQ",
+    "description" : "Films. Music. Artistes.\nAt our core, we’re storytellers.\nCelebrating the legacy #YRF50\n\nFrom making high-budget blockbusters to youth-oriented films, from working with the biggest actors of the industry to launching young talent in films, from being the distribution house with the strongest global foothold to pioneering new formats of distribution and exploring newer territories, from launching compelling story-telling forms to the numerous digitally led innovations, Yash Raj Films (YRF) has maintained its flagship position across all verticals since its genesis.",
+    "publishedAt" : "2019-02-10T14:20:17.494Z",
+    "resourceId" : {
+      "channelId" : "UCbTLwN10NoCU4WDzLf1JMOA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngGp9oFl5qO8BTlO13tpm1nFMAcHMBDmWkrF669UdM=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngGp9oFl5qO8BTlO13tpm1nFMAcHMBDmWkrF669UdM=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngGp9oFl5qO8BTlO13tpm1nFMAcHMBDmWkrF669UdM=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "YRF"
+  }
+} ]
